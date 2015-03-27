@@ -1,0 +1,19 @@
+{
+  "name": "102306093_HW3",
+  "version": "0.0.0",
+  "authors": [
+    "102306093 <102306093@nccu.edu.tw>"
+  ],
+  "description": "Calculator",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
